@@ -1,0 +1,3 @@
+usuario admin:
+	-admin@salzaps.com
+	-12345678aA
